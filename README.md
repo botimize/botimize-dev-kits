@@ -9,6 +9,7 @@ Choose your platform and language and get started from our sample echo bots inte
 * [messenger-python-bot](https://github.com/botimize/messenger-python-bot)
 
 ## Utilities
+* [chatbot-response-schema](https://github.com/botimize/chatbot-response-schema)
 
 ## Bot Helper
 Subscribe out botimize helper bot for more information.
